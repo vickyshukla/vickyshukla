@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [APIDirect](https://apidirect.healthcare/)<br>👯🤝 I’m looking to collaborate on NextJs/ReactJs projects<br>🌱 I’m currently learning NextJs<br>💬 Ask me about my recent projects<br>⚡ Fun fact:-  The first computer “bug” was an actual real-life bug.
+🔭 I’m currently working on [patient management application](https://github.com/vickyshukla/vickyshukla/edit/main/README.md)<br>👯🤝 I’m looking to collaborate on NextJs/ReactJs projects<br>🌱 I’m currently learning NextJs<br>💬 Ask me about my recent projects<br>⚡ Fun fact:-  The first computer “bug” was an actual real-life bug.
 
 
 # 💻 Tech Stack:
