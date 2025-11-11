@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [patient management application](https://github.com/vickyshukla/vickyshukla/)<br>👯🤝 I’m looking to collaborate on NextJs/ReactJs projects<br>🌱 💬 Ask me about my recent projects<br>⚡ Fun fact:-  The first computer “bug” was an actual real-life bug.
+🔭 I’m currently working on [yatraKosh](https://yatrakosh.vercel.app/)<br>👯🤝 I’m looking to collaborate on NextJs/ReactJs projects<br>🌱 💬 Ask me about my recent projects<br>⚡ Fun fact:-  The first computer “bug” was an actual real-life bug.
 
 
 # 💻 Tech Stack:
